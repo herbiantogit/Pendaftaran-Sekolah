@@ -1127,7 +1127,7 @@ class Master extends CI_Controller {
      */
 
     function jenis_keluarga() {
-        $data['nama_menu'] = "Jenis_keluarga";
+        $data['nama_menu'] = "Jenis keluarga";
 
         $data['parent_id_menu'] = $this->Layout_m->getMenuParent($data['nama_menu']);
         $data['id_menu_'] = $this->Layout_m->checkMenu($data['nama_menu']);

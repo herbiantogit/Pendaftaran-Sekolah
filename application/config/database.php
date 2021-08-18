@@ -76,7 +76,7 @@ $query_builder = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'postgres';
-$db['default']['password'] = 'surabaya03';
+$db['default']['password'] = 'admin';
 $db['default']['database'] = 'PendaftaranSekolah';
 $db['default']['dbdriver'] = 'postgre';
 $db['default']['dbprefix'] = '';
